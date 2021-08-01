@@ -5,3 +5,4 @@ Test Git features - for learning
   <Update Branch 2 - Dev> this is a development Branch
   <UAT> Unit Testing completed - moving to UAT Branch
   <UAT> UAT in progress - minor chnages done for a bug fixing 
+<New Branch - UAT bug Fix> Build the fix for UAT bugs
